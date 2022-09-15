@@ -123,7 +123,9 @@
 
 #### Create key pair
 
-- ![image-20220914164413999](AWS_01.assets/image-20220914164413999.png)Create new key pair 선택
+![image-20220914164413999](AWS_01.assets/image-20220914164413999.png)
+
+- Create new key pair 선택
 
 - Key pair name : 비밀번호의 이름 설정
 
